@@ -1,0 +1,34 @@
+.filterBar {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 4px;
+}
+
+.searchWrapper {
+    margin-bottom: 1rem;
+}
+
+.searchInput {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+}
+
+.controls {
+    display: flex;
+    gap: 1rem;
+}
+
+.select {
+    padding: 0.5rem;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    background: white;
+}
+
+.clearBtn {
+    color: #007bff;
+    text-decoration: underline;
+}
